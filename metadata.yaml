@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/679
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Dixon,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18721#The-Victim--A-Romance-of-the-Real-Jefferson-Davis
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2006-06-30'
 gutenberg_type: Text
